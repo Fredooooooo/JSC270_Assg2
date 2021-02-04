@@ -1,0 +1,12 @@
+Normal distribution
+uniform distribution
+Bernoulli
+Binomial
+Geometric
+Negative binomial
+hypergeometric
+poisson
+Exponential
+Chi square
+t distributino
+f distribution
